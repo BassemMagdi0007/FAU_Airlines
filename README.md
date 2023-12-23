@@ -15,7 +15,7 @@ This project utilizes the following Python libraries:
 
 **Installation:**
 Ensure you have the necessary libraries installed. You can install them using the following commands:
-```python
+```bash
 pip install pandas
 pip install pulp
 ```
